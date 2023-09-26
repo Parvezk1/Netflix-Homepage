@@ -1,5 +1,5 @@
 # Netflix-Homepage
-#Creating a simple webpage that of netflix using CSS and HTML .
+#Creating  a simple webpage that of netflix using CSS and HTML .
 
  //Create index.html page
 <!DOCTYPE html>
